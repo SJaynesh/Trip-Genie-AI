@@ -1,0 +1,69 @@
+
+{
+    "home": {
+        "title": "Genio de Viajes",
+        "subtitle": "Tu planificador de viajes inteligente y personalizado.",
+        "cardTitle": "Crea el Viaje de Tus Sueños"
+    },
+    "tripForm": {
+        "destination": {
+            "label": "Destino",
+            "placeholder": "ej., Tokio, Japón"
+        },
+        "travelDates": {
+            "label": "Fechas de Viaje",
+            "placeholder": "Elige un rango de fechas"
+        },
+        "budget": {
+            "label": "Presupuesto",
+            "placeholder": "ej., alrededor de $1500 USD"
+        },
+        "travelers": {
+            "label": "Número de Viajeros"
+        },
+        "travelStyle": {
+            "label": "Estilo de Viaje",
+            "description": "Selecciona uno o más estilos que se ajusten a tu viaje.",
+            "options": {
+                "adventure": "Aventura y Aire Libre",
+                "relaxation": "Relajación",
+                "historical": "Sitios Históricos",
+                "foodie": "Gastronómico",
+                "nightlife": "Vida Nocturna",
+                "culture": "Arte y Cultura"
+            }
+        },
+        "dreamTrip": {
+            "label": "Describe el Viaje de Tus Sueños",
+            "placeholder": "Cuéntanos cómo sería un viaje perfecto para ti. Por ejemplo, 'Unas vacaciones relajantes en la playa con un enfoque en restaurantes de mariscos locales y quizás un sitio histórico, pero nada demasiado extenuante.'"
+        },
+        "submit": {
+            "default": "Planificar Mi Aventura",
+            "pending": "Generando..."
+        }
+    },
+    "itineraryDisplay": {
+        "title": "Tu Itinerario de Genio de Viajes",
+        "for": "para",
+        "yourItinerary": "Tu Itinerario",
+        "backButton": "Planificar Otro Viaje",
+        "loading": "Desempacando tu aventura...",
+        "error": {
+            "title": "No se Encontró Itinerario",
+            "description": "Volvamos a encaminarte para planificar tu aventura.",
+            "button": "Planificar un Nuevo Viaje"
+        },
+        "budgetOverview": {
+            "title": "Resumen del Presupuesto",
+            "food": "Comida",
+            "accommodation": "Alojamiento",
+            "transport": "Transporte",
+            "total": "Costo Estimado Total"
+        },
+        "dailyPlanTitle": "Plan Diario",
+        "weatherTip": "Consejo del Clima"
+    },
+    "localeSwitcher": {
+        "label": "Idioma"
+    }
+}

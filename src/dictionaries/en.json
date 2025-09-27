@@ -1,0 +1,91 @@
+
+{
+    "home": {
+        "title": "Trip Genie",
+        "subtitle": "Your intelligent, personalized travel planner.",
+        "cardTitle": "Create Your Dream Trip"
+    },
+    "tripForm": {
+        "origin": {
+            "label": "Origin",
+            "placeholder": "e.g., NYC or New York"
+        },
+        "destinations": {
+            "label": "Destinations",
+            "add": "Add Destination",
+            "remove": "Remove",
+            "placeholder": "e.g., Paris",
+            "daysLabel": "Days",
+            "daysSummary": "Allocated {{allocated}} of {{total}} trip days"
+        },
+        "destination": {
+            "label": "Destination",
+            "placeholder": "e.g., Tokyo, Japan"
+        },
+        "currency": {
+            "label": "Currency",
+            "placeholder": "Select currency"
+        },
+        "travelDates": {
+            "label": "Travel Dates",
+            "placeholder": "Pick a date range"
+        },
+        "budget": {
+            "label": "Budget",
+            "placeholder": "e.g., around $1500 USD"
+        },
+        "travelers": {
+            "label": "Number of Travelers"
+        },
+        "children": {
+            "label": "Children"
+        },
+        "rooms": {
+            "label": "Rooms"
+        },
+        "travelStyle": {
+            "label": "Travel Style",
+            "description": "Select one or more styles that fit your trip.",
+            "options": {
+                "adventure": "Adventure & Outdoors",
+                "relaxation": "Relaxation",
+                "historical": "Historical Sites",
+                "foodie": "Foodie",
+                "nightlife": "Nightlife",
+                "culture": "Art & Culture"
+            }
+        },
+        "dreamTrip": {
+            "label": "Describe Your Dream Trip",
+            "placeholder": "Tell us what a perfect trip looks like for you. For example, 'A relaxing beach vacation with a focus on local seafood restaurants and maybe one historical site, but nothing too strenuous.'"
+        },
+        "submit": {
+            "default": "Plan My Adventure",
+            "pending": "Generating..."
+        }
+    },
+    "itineraryDisplay": {
+        "title": "Your Trip Genie Itinerary",
+        "for": "for",
+        "yourItinerary": "Your Itinerary",
+        "backButton": "Plan Another Trip",
+        "loading": "Unpacking your adventure...",
+        "error": {
+            "title": "No Itinerary Found",
+            "description": "Let's get you back on track to plan your adventure.",
+            "button": "Plan a New Trip"
+        },
+        "budgetOverview": {
+            "title": "Budget Overview",
+            "food": "Food",
+            "accommodation": "Accommodation",
+            "transport": "Transport",
+            "total": "Total Estimated Cost"
+        },
+        "dailyPlanTitle": "Daily Plan",
+        "weatherTip": "Weather Tip"
+    },
+    "localeSwitcher": {
+        "label": "Language"
+    }
+}

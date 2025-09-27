@@ -1,0 +1,68 @@
+{
+  "home": {
+    "title": "Trip Genie",
+    "subtitle": "Votre planificateur de voyage intelligent et personnalisé.",
+    "cardTitle": "Créez votre voyage de rêve"
+  },
+  "tripForm": {
+    "destination": {
+      "label": "Destination",
+      "placeholder": "ex. : Tokyo, Japon"
+    },
+    "travelDates": {
+      "label": "Dates de voyage",
+      "placeholder": "Choisissez une plage de dates"
+    },
+    "budget": {
+      "label": "Budget",
+      "placeholder": "ex. : environ 1500 $ US"
+    },
+    "travelers": {
+      "label": "Nombre de voyageurs"
+    },
+    "travelStyle": {
+      "label": "Style de voyage",
+      "description": "Sélectionnez un ou plusieurs styles qui correspondent à votre voyage.",
+      "options": {
+        "adventure": "Aventure & Plein air",
+        "relaxation": "Détente",
+        "historical": "Sites historiques",
+        "foodie": "Gastronomie",
+        "nightlife": "Vie nocturne",
+        "culture": "Art & Culture"
+      }
+    },
+    "dreamTrip": {
+      "label": "Décrivez votre voyage de rêve",
+      "placeholder": "Dites-nous à quoi ressemble un voyage parfait pour vous."
+    },
+    "submit": {
+      "default": "Planifier mon aventure",
+      "pending": "Génération..."
+    }
+  },
+  "itineraryDisplay": {
+    "title": "Votre itinéraire Trip Genie",
+    "for": "pour",
+    "yourItinerary": "Votre itinéraire",
+    "backButton": "Planifier un autre voyage",
+    "loading": "Préparation de votre aventure...",
+    "error": {
+      "title": "Aucun itinéraire trouvé",
+      "description": "Revenons à la planification de votre aventure.",
+      "button": "Planifier un nouveau voyage"
+    },
+    "budgetOverview": {
+      "title": "Aperçu du budget",
+      "food": "Restauration",
+      "accommodation": "Hébergement",
+      "transport": "Transport",
+      "total": "Coût total estimé"
+    },
+    "dailyPlanTitle": "Plan quotidien",
+    "weatherTip": "Conseil météo"
+  },
+  "localeSwitcher": {
+    "label": "Langue"
+  }
+}

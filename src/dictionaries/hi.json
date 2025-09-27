@@ -1,0 +1,68 @@
+{
+  "home": {
+    "title": "ट्रिप जिनी",
+    "subtitle": "आपका बुद्धिमान, व्यक्तिगत यात्रा योजनाकार।",
+    "cardTitle": "अपनी सपनों की यात्रा बनाएं"
+  },
+  "tripForm": {
+    "destination": {
+      "label": "गंतव्य",
+      "placeholder": "उदा., टोक्यो, जापान"
+    },
+    "travelDates": {
+      "label": "यात्रा तिथियाँ",
+      "placeholder": "तिथियों की सीमा चुनें"
+    },
+    "budget": {
+      "label": "बजट",
+      "placeholder": "उदा., लगभग $1500 USD"
+    },
+    "travelers": {
+      "label": "यात्रियों की संख्या"
+    },
+    "travelStyle": {
+      "label": "यात्रा शैली",
+      "description": "एक या अधिक शैली चुनें जो आपकी यात्रा पर फिट बैठती हों।",
+      "options": {
+        "adventure": "साहसिक और आउटडोर",
+        "relaxation": "आराम",
+        "historical": "ऐतिहासिक स्थल",
+        "foodie": "फूडी",
+        "nightlife": "नाइटलाइफ",
+        "culture": "कला और संस्कृति"
+      }
+    },
+    "dreamTrip": {
+      "label": "अपनी सपनों की यात्रा का वर्णन करें",
+      "placeholder": "हमें बताएं कि आपके लिए एक परफेक्ट ट्रिप कैसी होगी।"
+    },
+    "submit": {
+      "default": "मेरी यात्रा की योजना बनाएं",
+      "pending": "बना रहा है..."
+    }
+  },
+  "itineraryDisplay": {
+    "title": "आपकी ट्रिप जिनी यात्रा योजना",
+    "for": "के लिए",
+    "yourItinerary": "आपकी यात्रा योजना",
+    "backButton": "एक और यात्रा प्लान करें",
+    "loading": "आपके रोमांच को तैयार कर रहे हैं...",
+    "error": {
+      "title": "कोई यात्रा योजना नहीं मिली",
+      "description": "आइए आपको नई यात्रा योजना पर वापस ले चलें।",
+      "button": "नई यात्रा की योजना"
+    },
+    "budgetOverview": {
+      "title": "बजट का अवलोकन",
+      "food": "खाना",
+      "accommodation": "आवास",
+      "transport": "परिवहन",
+      "total": "कुल अनुमानित लागत"
+    },
+    "dailyPlanTitle": "दैनिक योजना",
+    "weatherTip": "मौसम सुझाव"
+  },
+  "localeSwitcher": {
+    "label": "भाषा"
+  }
+}

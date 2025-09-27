@@ -1,0 +1,68 @@
+{
+  "home": {
+    "title": "旅行精灵",
+    "subtitle": "您的智能个性化旅行规划师。",
+    "cardTitle": "创建您的梦想之旅"
+  },
+  "tripForm": {
+    "destination": {
+      "label": "目的地",
+      "placeholder": "例如：日本东京"
+    },
+    "travelDates": {
+      "label": "旅行日期",
+      "placeholder": "选择日期范围"
+    },
+    "budget": {
+      "label": "预算",
+      "placeholder": "例如：约 1500 美元"
+    },
+    "travelers": {
+      "label": "出行人数"
+    },
+    "travelStyle": {
+      "label": "旅行风格",
+      "description": "选择一个或多个适合您行程的风格。",
+      "options": {
+        "adventure": "冒险与户外",
+        "relaxation": "放松",
+        "historical": "历史遗迹",
+        "foodie": "美食",
+        "nightlife": "夜生活",
+        "culture": "艺术与文化"
+      }
+    },
+    "dreamTrip": {
+      "label": "描述您的梦想之旅",
+      "placeholder": "告诉我们对您来说完美旅程是什么样的。"
+    },
+    "submit": {
+      "default": "规划我的冒险",
+      "pending": "生成中..."
+    }
+  },
+  "itineraryDisplay": {
+    "title": "您的旅行精灵行程",
+    "for": "为",
+    "yourItinerary": "您的行程",
+    "backButton": "规划另一趟旅行",
+    "loading": "正在整理您的冒险...",
+    "error": {
+      "title": "未找到行程",
+      "description": "让我们回到规划您的冒险。",
+      "button": "规划新行程"
+    },
+    "budgetOverview": {
+      "title": "预算概览",
+      "food": "餐饮",
+      "accommodation": "住宿",
+      "transport": "交通",
+      "total": "总预计费用"
+    },
+    "dailyPlanTitle": "每日计划",
+    "weatherTip": "天气提示"
+  },
+  "localeSwitcher": {
+    "label": "语言"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "home": {
+    "title": "تريب جيني",
+    "subtitle": "مخطط السفر الذكي والشخصي الخاص بك.",
+    "cardTitle": "أنشئ رحلتك الحلم"
+  },
+  "tripForm": {
+    "destination": {
+      "label": "الوجهة",
+      "placeholder": "مثال: طوكيو، اليابان"
+    },
+    "travelDates": {
+      "label": "تواريخ السفر",
+      "placeholder": "اختر نطاق التواريخ"
+    },
+    "budget": {
+      "label": "الميزانية",
+      "placeholder": "مثال: حوالي 1500 دولار أمريكي"
+    },
+    "travelers": {
+      "label": "عدد المسافرين"
+    },
+    "travelStyle": {
+      "label": "أسلوب السفر",
+      "description": "اختر أسلوبًا أو أكثر يناسب رحلتك.",
+      "options": {
+        "adventure": "مغامرة وهواء الطلق",
+        "relaxation": "استرخاء",
+        "historical": "مواقع تاريخية",
+        "foodie": "ذواقة",
+        "nightlife": "حياة ليلية",
+        "culture": "فن وثقافة"
+      }
+    },
+    "dreamTrip": {
+      "label": "صف رحلتك الحلم",
+      "placeholder": "أخبرنا كيف تبدو الرحلة المثالية بالنسبة لك."
+    },
+    "submit": {
+      "default": "خطط لمغامرتي",
+      "pending": "جارٍ الإنشاء..."
+    }
+  },
+  "itineraryDisplay": {
+    "title": "خطة رحلتك من تريب جيني",
+    "for": "لـ",
+    "yourItinerary": "خطة رحلتك",
+    "backButton": "خطط لرحلة أخرى",
+    "loading": "جارٍ تجهيز مغامرتك...",
+    "error": {
+      "title": "لم يتم العثور على خطة",
+      "description": "لنعد إلى تخطيط رحلتك.",
+      "button": "خطط لرحلة جديدة"
+    },
+    "budgetOverview": {
+      "title": "نظرة عامة على الميزانية",
+      "food": "الطعام",
+      "accommodation": "الإقامة",
+      "transport": "المواصلات",
+      "total": "التكلفة الإجمالية التقديرية"
+    },
+    "dailyPlanTitle": "الخطة اليومية",
+    "weatherTip": "نصيحة الطقس"
+  },
+  "localeSwitcher": {
+    "label": "اللغة"
+  }
+}

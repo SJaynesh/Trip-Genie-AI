@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Respect Tailwind font families defined in tailwind.config.ts */
+body {
+  font-feature-settings: "liga" 1, "kern" 1;
+  text-rendering: optimizeLegibility;
+}
+
+@layer base {
+  :root {
+    /* Modern travel palette: soft blues, sunset orange, white background */
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 200 90% 48%; /* soft ocean blue */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 16 90% 58%; /* sunset orange */
+    --secondary-foreground: 0 0% 100%;
+    --muted: 210 16% 96%;
+    --muted-foreground: 215 16% 42%;
+    --accent: 198 85% 54%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 72% 48%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 214 16% 90%;
+    --input: 0 0% 100%;
+    --ring: 200 90% 48%;
+    --radius: 0.85rem;
+  }
+  .dark {
+    --background: 222 47% 10%;
+    --foreground: 210 20% 96%;
+    --card: 222 47% 12%;
+    --card-foreground: 210 20% 96%;
+    --popover: 222 47% 12%;
+    --popover-foreground: 210 20% 96%;
+    --primary: 200 90% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 16 90% 60%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 222 20% 18%;
+    --muted-foreground: 220 15% 70%;
+    --accent: 198 85% 58%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62% 42%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 222 16% 26%;
+    --input: 222 16% 18%;
+    --ring: 200 90% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    background-image:
+      radial-gradient(1200px 600px at 100% -10%, hsl(16 85% 56% / 0.10), transparent 60%),
+      radial-gradient(1200px 600px at -10% 110%, hsl(198 90% 48% / 0.10), transparent 60%);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}

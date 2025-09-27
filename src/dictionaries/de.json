@@ -1,0 +1,68 @@
+{
+  "home": {
+    "title": "Trip Genie",
+    "subtitle": "Ihr intelligenter, personalisierter Reiseplaner.",
+    "cardTitle": "Erstellen Sie Ihre Traumreise"
+  },
+  "tripForm": {
+    "destination": {
+      "label": "Reiseziel",
+      "placeholder": "z. B. Tokio, Japan"
+    },
+    "travelDates": {
+      "label": "Reisedaten",
+      "placeholder": "Datumsbereich auswählen"
+    },
+    "budget": {
+      "label": "Budget",
+      "placeholder": "z. B. ca. 1500 $ USD"
+    },
+    "travelers": {
+      "label": "Anzahl der Reisenden"
+    },
+    "travelStyle": {
+      "label": "Reisestil",
+      "description": "Wählen Sie einen oder mehrere Stile, die zu Ihrer Reise passen.",
+      "options": {
+        "adventure": "Abenteuer & Outdoor",
+        "relaxation": "Entspannung",
+        "historical": "Historische Stätten",
+        "foodie": "Feinschmecker",
+        "nightlife": "Nachtleben",
+        "culture": "Kunst & Kultur"
+      }
+    },
+    "dreamTrip": {
+      "label": "Beschreiben Sie Ihre Traumreise",
+      "placeholder": "Erzählen Sie uns, wie Ihre perfekte Reise aussieht."
+    },
+    "submit": {
+      "default": "Mein Abenteuer planen",
+      "pending": "Wird erstellt..."
+    }
+  },
+  "itineraryDisplay": {
+    "title": "Ihr Trip Genie Reiseplan",
+    "for": "für",
+    "yourItinerary": "Ihr Reiseplan",
+    "backButton": "Weitere Reise planen",
+    "loading": "Ihr Abenteuer wird vorbereitet...",
+    "error": {
+      "title": "Kein Reiseplan gefunden",
+      "description": "Lassen Sie uns zurück zur Planung gehen.",
+      "button": "Neue Reise planen"
+    },
+    "budgetOverview": {
+      "title": "Budgetübersicht",
+      "food": "Essen",
+      "accommodation": "Unterkunft",
+      "transport": "Transport",
+      "total": "Geschätzte Gesamtkosten"
+    },
+    "dailyPlanTitle": "Tagesplan",
+    "weatherTip": "Wettertipp"
+  },
+  "localeSwitcher": {
+    "label": "Sprache"
+  }
+}
